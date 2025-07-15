@@ -1,3 +1,4 @@
+**First-time PR practice by Yosef Hakim – fixing a small typo!**
 # Windows Service Wrapper in a permissive license
 
 [![Github All Releases](https://img.shields.io/github/downloads/winsw/winsw/total?style=flat-square)](https://github.com/winsw/winsw/releases)
